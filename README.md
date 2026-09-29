@@ -13,3 +13,7 @@ Zdjęcia i logo pobrane z publicznej strony Motoexpert; prawa pozostają przy ic
 
 ## Aktualizacja identyfikacji i treści
 Oryginalne logo i favicon Motoexpert, pomarańczowy kolor #e67817 z pierwotnej strony. Dodane: czwarta usługa (pomoc 24/7), wyróżnione zimowanie/części/transport, IKOL, trzy aktualności z datami, trzy porady, film YouTube, sprzedaż motocykli (kontakt), dane szkoły jazdy, Facebook, YouTube, klauzula CV i wyszukiwanie na oryginalnej stronie.
+
+## Kierunek wizualny v3
+Kompozycja redakcyjna, większa typografia, asymetryczne usługi, animacje IntersectionObserver i pasek postępu czytania. Uwzględnione prefers-reduced-motion. Zachowane wcześniejsze odnośniki. Zdjęcie Yamaha MT-07 i większe zdjęcia usług pochodzą z biblioteki oryginalnej witryny.
+
